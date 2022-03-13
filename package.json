@@ -9,6 +9,13 @@
   },
   "author": "FOPA KUETE DUCLAIR",
   "description": "Manage Node.js projects and npm packages using package.json",
+  "keywords": [
+    "npm",
+    "json",
+    "node",
+    "package",
+    "freecodecamp"
+  ],
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
