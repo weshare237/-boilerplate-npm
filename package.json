@@ -8,6 +8,7 @@
     "start": "node server.js"
   },
   "author": "FOPA KUETE DUCLAIR",
+  "description": "Manage Node.js projects and npm packages using package.json",
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
