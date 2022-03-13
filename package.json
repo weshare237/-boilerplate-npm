@@ -16,6 +16,7 @@
     "package",
     "freecodecamp"
   ],
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
